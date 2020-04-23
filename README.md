@@ -36,7 +36,7 @@ Read text tutorial at [/Installation/Windows](/Installation/Windows/Install_wind
 
 Watch video tutorial :    
 
-[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)](https://www.youtube.com/watch?v=-lmO-_W8-Jw)    
+[![Window Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
 
 ### For Android
 
@@ -44,7 +44,7 @@ Read text tutorial at [/Installation/Android](/Installation/Android/Install_andr
 
 Watch video tutorial :    
 
-[![Android Installation Video](https://img.youtube.com/vi/9z4meV0BMMQ/0.jpg)](https://www.youtube.com/watch?v=9z4meV0BMMQ)    
+[![Android Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
 
 ##### Usage: 
 > python main.py phone_number [optional for notes]    
@@ -64,7 +64,7 @@ Open your windows command prompt or termux terminal. Type the following command:
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
 ## Bugs and Issues
 
-Have a bug or an issue with this script? [Open a new issue](https://github.com/ziziwho/clickbot/issues/new) here on GitHub or leave a message on my [telegram](http://t.me/ziziwho).
+Have a bug or an issue with this script? [Open a new issue](https://github.com/ziziwho/telescraper/issues/new) here on GitHub or leave a message on my [telegram](http://t.me/ziziwho).
 
 
 ---
