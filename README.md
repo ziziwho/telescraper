@@ -15,19 +15,20 @@ This script can be run on Window's command prompt
 and Termux terminal on Android.
 
 ## Overview
-ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to click service that uses cryptocurrency to process payments..    
+First of all, my name is [Zizi](https://github.com/ziziwho/). A few months ago zizi created a script to automatically invite members to the telegram groups but did not disclose how zizi was scraping the usernames on the telegram. So zizi has created a [TeleScraper](https://github.com/ziziwho/telescraper) to do that. [TeleScraper](https://github.com/ziziwho/telescraper) is a script where it is used to extract the usernames from groups on a telegram.
 
-![main](Images/main.PNG)    
+![main](Images/cmd.PNG)    
 ### Features:
-- [x] Usable to earn Bitcoin, Dogecoin, Litecoin, Bitcoin Cash and ZCash.
-- [x] 3 functions such as visiting sites, joining chats, and messaging bots.
-- [x] User determine which cryptocurrency to earn.
-- [x] User determine which funtions to use.
-- [ ] AutoComplete captcha (skip captcha for now)
-- [ ] Earn multiple cryptocurrency simultaneously
+- [x] Loginable even using 2FA
+- [x] Scrap username, phone and group title.
+- [x] Easy setup.py installation.
+- [x] Easy to configure API ID & API HASH.
+- [ ] Merge .csv file
+- [ ] Update script
+
 ## Download
 Script is where the magic begins. Go ahead and download it now.    
-If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/clickbot/releases)
+If you don't download the script yet get it now by clicking [/releases](/releases)
 ## Intallation
 ### For Windows
 
