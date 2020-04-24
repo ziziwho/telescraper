@@ -17,9 +17,10 @@ and Termux terminal on Android.
 ## Overview
 A few months ago [Ziziwho](https://github.com/ziziwho/) created [TeleInviter](https://github.com/ziziwho/teleinviter), a script to automatically invite members to the telegram groups but did not disclose how zizi was scraping the usernames on the telegram. So zizi has created a [TeleScraper](https://github.com/ziziwho/telescraper) to do that. [TeleScraper](https://github.com/ziziwho/telescraper) is a script where it is used to extract the usernames from groups on a telegram.
 
-![main](Images/cmd.PNG)    
+![cmd](Images/cmd.PNG)    
+This is a script that was run in cmd
 ### Features:
-- [x] Loginable even using 2FA
+- [x] Loginable even with 2FA enabled
 - [x] Scrap username, phone and group title.
 - [x] Easy setup.py installation.
 - [x] Easy to configure API ID & API HASH.
@@ -32,16 +33,32 @@ This is an example of scrapped usernames.
 Script is where the magic begins. Go ahead and download it now.    
 If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/telescraper//releases)
 ## Intallation
+### Obtaining api id
+You can obtain your own API ID at https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
+Do not skip this step ❗ This step is very important and crucial for the next step.
 ### For Windows
-
-Read text tutorial at [/Installation/Windows](/Installation/Windows/Install_windows.md)    
+1. Extract TeleScraper.zip 
+![extract](Images/extract.PNG)   
+2. Open your windows command prompt or termux terminal. Type the following command:   
+> python C:\Project\telescraper\setup.py -h
+3. Your command prompt should look like this:
+![help](Images/help.PNG)
+4. Type the following command:   
+> python C:\Project\telescraper\setup.py -c
+![configure](Images/configure.PNG)
+⚠️ You can always re-run these steps (step 4) to reconfigure.
+5. Type the following command:   
+> python C:\Project\telescraper\setup.py -i
+⚠️ This may take a while depending on your connection speed.
+6. Type the following command:   
+> python C:\Project\telescraper\run.py
 
 Watch video tutorial :    
 
 [![Window Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
 
 ### For Android
-
+python /storage/emulated/0/telescraper/setup.py -h
 Read text tutorial at [/Installation/Android](/Installation/Android/Install_android.md)    
 
 Watch video tutorial :    
@@ -49,19 +66,19 @@ Watch video tutorial :
 [![Android Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
 
 ##### Usage: 
-> python main.py phone_number [optional for notes]    
+> python run.py
 
-❗ Input number in international format (example: +1234567890)    
+❗ You must run setup.py before run.py for configurations.
 
 Open your windows command prompt or termux terminal. Type the following command:    
 
 > **Windows@Command-Prompt :**    
 > ```
-> python C:\telescraper\main.py +1234567890
+> python C:\Project\telescraper\run.py
 > ```
 > **Android@Termux :**    
 > ```
-> python /storage/emulated/0/telescraper/main.py +1234567890
+> python /storage/emulated/0/telescraper/run.py
 > ```
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
 ## Bugs and Issues
