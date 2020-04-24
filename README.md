@@ -18,7 +18,12 @@ and Termux terminal on Android.
 A few months ago [Ziziwho](https://github.com/ziziwho/) created [TeleInviter](https://github.com/ziziwho/teleinviter), a script to automatically invite members to the telegram groups but did not disclose how zizi was scraping the usernames on the telegram. So zizi has created a [TeleScraper](https://github.com/ziziwho/telescraper) to do that. [TeleScraper](https://github.com/ziziwho/telescraper) is a script where it is used to extract the usernames from groups on a telegram.
 
 ![cmd](Images/cmd.PNG)    
-This is a script that was run in cmd
+Script that was run in cmd on Windows    
+
+![termux](Images/termux.jpg)    
+Script that was run in termux on Android
+
+HAHAHA! There's no option for iOS :laughing::laughing::laughing:
 ### Features:
 - [x] Loginable even with 2FA enabled
 - [x] Scrap username, phone and group title.
