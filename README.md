@@ -43,13 +43,13 @@ Do not skip this step ❗ This step is very important and crucial for the next s
 <details><summary>Click to expand!</summary>
 <p>
     
-1. Extract TeleScraper.zip    
+1. Extract **TeleScraper.zip**    
 
 ![extract](Images/extract.PNG)    
 
 2. Open your windows command prompt or termux terminal.    
 
-⚠️ `../your_path/` mean path/directory/location to your TeleInviter file.    
+⚠️ `../your_path/` mean **path/directory/location** to your TeleInviter file.    
 
 Type the following command:    
 `python C:\Project\telescraper\setup.py -h`    
@@ -58,7 +58,7 @@ Type the following command:
 
 ![help](Images/help.PNG)    
 
-4. To configure *config.data*, Type the following command:    
+4. To configure **config.data**, Type the following command:    
 `python C:\Project\telescraper\setup.py -c`    
 
 ![configure](Images/configure.PNG)    
@@ -93,21 +93,21 @@ Watch video tutorial :
 </details>
     
     
-### Usage: 
-> python run.py
+## Usage: 
+`python run.py`    
 
 ❗ You must run setup.py before run.py for configurations.
 
 Open your windows command prompt or termux terminal. Type the following command:    
 
 > **Windows@Command-Prompt :**    
-> ```
-> python C:\Project\telescraper\run.py
-> ```
+>
+`python C:\Project\telescraper\run.py`
+>
 > **Android@Termux :**    
-> ```
-> python /storage/emulated/0/telescraper/run.py
-> ```
+>
+`python /storage/emulated/0/telescraper/run.py`
+>
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
 ## Bugs and Issues
 
