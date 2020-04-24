@@ -24,8 +24,10 @@ A few months ago [Ziziwho](https://github.com/ziziwho/) created [TeleInviter](ht
 - [x] Easy setup.py installation.
 - [x] Easy to configure API ID & API HASH.
 - [ ] Merge .csv file
-- [ ] Update script
-
+- [ ] Update script 
+### Result:
+![result](Images/result.PNG)   
+This is an example of scrapped usernames.
 ## Download
 Script is where the magic begins. Go ahead and download it now.    
 If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/telescraper//releases)
