@@ -49,28 +49,28 @@ Do not skip this step ❗ This step is very important and crucial for the next s
 
 2. Open your windows command prompt or termux terminal.    
 
-⚠️ `../your_path/` mean **path/directory/location** to your TeleInviter file.    
+⚠️ `../your_path/` mean **path/directory/location** to your TeleScraper file.    
 
 Type the following command:    
-`python C:\Project\telescraper\setup.py -h`    
+`python ../your_path/setup.py -h`    
 
 3. Your command prompt should look like this:    
 
 ![help](Images/help.PNG)    
 
 4. To configure **config.data**, Type the following command:    
-`python C:\Project\telescraper\setup.py -c`    
+`python ../your_path/setup.py -c`    
 
 ![configure](Images/configure.PNG)    
 ⚠️ You can always re-run these steps (step 4) to reconfigure.    
 
 5. To install requirements, type the following command:    
-`python C:\Project\telescraper\setup.py -i`    
+`python ../your_path/setup.py -i`    
 
 ⚠️ This may take a while depending on your connection speed.    
 
 6. Installation finished. To run the TeleScraper, type the following command:    
-`python C:\Project\telescraper\run.py`    
+`python ../your_path/run.py`    
 
 Watch video tutorial :    
 
@@ -96,16 +96,16 @@ Watch video tutorial :
 ## Usage: 
 `python run.py`    
 
-❗ You must run setup.py before run.py for configurations.
+❗ You must run setup.py before run.py for configurations. Read [Installation](https://github.com/ziziwho/telescraper/tree/master#intallation)    
 
 Open your windows command prompt or termux terminal. Type the following command:    
 
-> **Windows@Command-Prompt :**    
->
-`python C:\Project\telescraper\run.py`
->
-> **Android@Termux :**    
->
+**Windows@Command-Prompt :**    
+
+`python ../your_path/run.py`
+
+**Android@Termux :**    
+
 `python /storage/emulated/0/telescraper/run.py`
 >
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
