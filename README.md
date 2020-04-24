@@ -36,7 +36,7 @@ HAHAHA! There's no option for iOS :laughing::laughing::laughing:
 This is an example of scrapped usernames and phone numbers.
 ## Download
 Script is where the magic begins. Go ahead and download it now.    
-If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/telescraper//releases)
+If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/telescraper/releases)
 ## Intallation
 
 ### Obtaining api id
