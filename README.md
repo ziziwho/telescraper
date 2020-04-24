@@ -40,6 +40,8 @@ Do not skip this step ❗ This step is very important and crucial for the next s
 
 ### For Windows
 
+<details><summary>Click to expand!</summary>
+<p>
 1. Extract TeleScraper.zip    
 
 ![extract](Images/extract.PNG)    
@@ -72,14 +74,19 @@ Type the following command:
 Watch video tutorial :    
 
 [![Window Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
-
+</p>
+</details>
 ### For Android
+<details><summary>Click to expand!</summary>
+<p>
 ⚠️ Installation for android is quite same as it is for Windows.
 `python /storage/emulated/0/telescraper/setup.py -h`
 
 Watch video tutorial :    
 
 [![Android Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
+</p>
+</details>
 
 ##### Usage: 
 > python run.py
