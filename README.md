@@ -38,8 +38,8 @@ If you don't download the script yet get it now by clicking [/releases](https://
 You can obtain your own API ID at https://core.telegram.org/api/obtaining_api_id#obtaining-api-id    
 Do not skip this step ❗ This step is very important and crucial for the next step.   
 
-### For Windows
-
+### For Windows    
+    
 <details><summary>Click to expand!</summary>
 <p>
 1. Extract TeleScraper.zip    
@@ -76,7 +76,9 @@ Watch video tutorial :
 [![Window Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
 </p>
 </details>
-### For Android
+
+### For Android    
+    
 <details><summary>Click to expand!</summary>
 <p>
 ⚠️ Installation for android is quite same as it is for Windows.
@@ -87,7 +89,8 @@ Watch video tutorial :
 [![Android Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
 </p>
 </details>
-
+    
+    
 ##### Usage: 
 > python run.py
 
