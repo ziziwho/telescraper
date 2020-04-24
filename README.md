@@ -50,7 +50,7 @@ Do not skip this step ❗ This step is very important and crucial for the next s
     
 1. Extract **TeleScraper.zip**    
 
-![extract](Images/extract2.PNG)    
+![extract](Images/extract.PNG)    
 
 2. Open your windows command prompt.    
 
@@ -61,12 +61,12 @@ Type the following command:
 
 3. Your command prompt should look like this:    
 
-![help](Images/help2.PNG)    
+![help](Images/help.PNG)    
 
 4. To configure **config.data**, Type the following command:    
 `python ../your_path/setup.py -c`    
 
-![configure](Images/configure2.PNG)    
+![configure](Images/configure.PNG)    
 ⚠️ You can always re-run these steps (step 4) to reconfigure.    
 
 5. To install requirements, type the following command:    
