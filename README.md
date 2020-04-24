@@ -42,6 +42,7 @@ Do not skip this step ❗ This step is very important and crucial for the next s
     
 <details><summary>Click to expand!</summary>
 <p>
+    
 1. Extract TeleScraper.zip    
 
 ![extract](Images/extract.PNG)    
@@ -81,6 +82,7 @@ Watch video tutorial :
     
 <details><summary>Click to expand!</summary>
 <p>
+    
 ⚠️ Installation for android is quite same as it is for Windows.
 `python /storage/emulated/0/telescraper/setup.py -h`
 
@@ -91,7 +93,7 @@ Watch video tutorial :
 </details>
     
     
-##### Usage: 
+### Usage: 
 > python run.py
 
 ❗ You must run setup.py before run.py for configurations.
