@@ -15,7 +15,7 @@ This script can be run on Window's command prompt
 and Termux terminal on Android.
 
 ## Overview
-First of all, my name is [Zizi](https://github.com/ziziwho/). A few months ago zizi created a script to automatically invite members to the telegram groups but did not disclose how zizi was scraping the usernames on the telegram. So zizi has created a [TeleScraper](https://github.com/ziziwho/telescraper) to do that. [TeleScraper](https://github.com/ziziwho/telescraper) is a script where it is used to extract the usernames from groups on a telegram.
+A few months ago [Ziziwho](https://github.com/ziziwho/) created [TeleInviter](https://github.com/ziziwho/teleinviter), a script to automatically invite members to the telegram groups but did not disclose how zizi was scraping the usernames on the telegram. So zizi has created a [TeleScraper](https://github.com/ziziwho/telescraper) to do that. [TeleScraper](https://github.com/ziziwho/telescraper) is a script where it is used to extract the usernames from groups on a telegram.
 
 ![main](Images/cmd.PNG)    
 ### Features:
@@ -28,7 +28,7 @@ First of all, my name is [Zizi](https://github.com/ziziwho/). A few months ago z
 
 ## Download
 Script is where the magic begins. Go ahead and download it now.    
-If you don't download the script yet get it now by clicking [/releases](/releases)
+If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/telescraper//releases)
 ## Intallation
 ### For Windows
 
@@ -55,11 +55,11 @@ Open your windows command prompt or termux terminal. Type the following command:
 
 > **Windows@Command-Prompt :**    
 > ```
-> python C:\CODE\ClickBot Script\clickbot\main.py +1234567890
+> python C:\telescraper\main.py +1234567890
 > ```
 > **Android@Termux :**    
 > ```
-> python /storage/emulated/0/clickbot/main.py +1234567890
+> python /storage/emulated/0/telescraper/main.py +1234567890
 > ```
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
 ## Bugs and Issues
