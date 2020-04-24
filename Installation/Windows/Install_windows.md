@@ -2,15 +2,15 @@
 
 > ## Watch video tutorial :    
 
-[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)](https://www.youtube.com/watch?v=-lmO-_W8-Jw)    
+[![Window Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](https://github.com/ziziwho/telescraper/blob/master/Installation/Windows/Install_windows.md)    
 
 > ## Read text tutorial :  
 #### Download Python
-Download [Python](https://www.python.org/downloads/) for Windows    
+Download **latest** [Python](https://www.python.org/downloads/) for Windows    
 
 ![path](/Images/win-py-install.png)    
 
-❗ When you're installing python made sure you checked "Add Python 3.7 to PATH"      
+❗ When you're installing python made sure you checked "Add Python 3.8 to PATH"      
 #### Extract files
 
 ![extract](/Images/window-extract.png)    
