@@ -10,6 +10,9 @@ if you have added some wrong value
 
 import os, sys
 import time
+os.system("""
+		pip3 install colorama
+		""")
 from colorama import Fore, init as color_ama
 color_ama(autoreset=True)
 
