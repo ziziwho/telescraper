@@ -28,7 +28,7 @@ This is a script that was run in cmd
 - [ ] Update script 
 ### Result:
 ![result](Images/result.PNG)   
-This is an example of scrapped usernames.
+This is an example of scrapped usernames and phone numbers.
 ## Download
 Script is where the magic begins. Go ahead and download it now.    
 If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/telescraper//releases)
@@ -45,9 +45,9 @@ Do not skip this step ❗ This step is very important and crucial for the next s
     
 1. Extract **TeleScraper.zip**    
 
-![extract](Images/extract.PNG)    
+![extract](Images/extract2.PNG)    
 
-2. Open your windows command prompt or termux terminal.    
+2. Open your windows command prompt.    
 
 ⚠️ `../your_path/` mean **path/directory/location** to your TeleScraper file.    
 
@@ -56,12 +56,12 @@ Type the following command:
 
 3. Your command prompt should look like this:    
 
-![help](Images/help.PNG)    
+![help](Images/help2.PNG)    
 
 4. To configure **config.data**, Type the following command:    
 `python ../your_path/setup.py -c`    
 
-![configure](Images/configure.PNG)    
+![configure](Images/configure2.PNG)    
 ⚠️ You can always re-run these steps (step 4) to reconfigure.    
 
 5. To install requirements, type the following command:    
@@ -74,7 +74,7 @@ Type the following command:
 
 Watch video tutorial :    
 
-[![Window Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
+[![Window Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](https://github.com/ziziwho/telescraper/tree/master)    
 </p>
 </details>
 
@@ -83,12 +83,38 @@ Watch video tutorial :
 <details><summary>Click to expand!</summary>
 <p>
     
-⚠️ Installation for android is quite same as it is for Windows.
-`python /storage/emulated/0/telescraper/setup.py -h`
+1. Extract **TeleScraper.zip**    
+
+![extract](Images/extract2.jpg)    
+
+2. Open your termux terminal.    
+
+⚠️ `../your_path/` mean **path/directory/location** to your TeleScraper file.    
+
+Type the following command:    
+`python ../your_path/setup.py -h`    
+
+3. Your command prompt should look like this:    
+
+![help](Images/help2.jpg)    
+
+4. To configure **config.data**, Type the following command:    
+`python ../your_path/setup.py -c`    
+
+![configure](Images/configure2.jpg)    
+⚠️ You can always re-run these steps (step 4) to reconfigure.    
+
+5. To install requirements, type the following command:    
+`python ../your_path/setup.py -i`    
+
+⚠️ This may take a while depending on your connection speed.    
+
+6. Installation finished. To run the TeleScraper, type the following command:    
+`python ../your_path/run.py`    
 
 Watch video tutorial :    
 
-[![Android Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](/)    
+[![Android Installation Video](https://transactionmanagementconsultants.com/wp-content/uploads/2018/10/video-coming-soon.png)](https://github.com/ziziwho/telescraper/tree/master)    
 </p>
 </details>
     
@@ -106,7 +132,7 @@ Open your windows command prompt or termux terminal. Type the following command:
 
 **Android@Termux :**    
 
-`python /storage/emulated/0/telescraper/run.py`
+`python /storage/emulated/0/Download/telescraper/run.py`
 >
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
 ## Bugs and Issues
